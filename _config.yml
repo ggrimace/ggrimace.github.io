@@ -20,7 +20,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jekyll-garden.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://https:/ggrimace.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as 
@@ -129,6 +129,7 @@ defaults:
       layout: Post
       content-type: notes
 
+date: "`r format Sys.Date(), %d-%m-%y)`"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
