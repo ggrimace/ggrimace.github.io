@@ -149,4 +149,4 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-#   - _notes\Public
+#   - _notes/Public
