@@ -16,3 +16,9 @@ File Title : <% tp.file.title %>
 Date + File Title : <% tp.date.now("MM-DD-YYYY", tp.file.title) %>
 
 
+# YAML FRONTMATTER
+
+Retrive Frontmatter 
+<% tp.frontmatter.title %>
+<% tp.frontmatter.notetype %>
+<% tp.frontmatter.date %>
