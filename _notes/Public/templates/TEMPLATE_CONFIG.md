@@ -8,12 +8,12 @@ date : 15-04-2021
 
 ## Documentation 
 ### Retrieves Date
-Today's Date :  <% tp.date.now("MM-DD-YYYY") %>
+Today's Date :  <% tp.date.now("YYYY-DD-MM") %>
 Day of the week, Today's Date : <% tp.date.now("dddd, MM-DD-YYYY") %>
 
 ### File Title
 File Title : <% tp.file.title %>
-Date + File Title : <% tp.date.now("MM-DD-YYYY", tp.file.title) %>
+Date + File Title : <% tp.date.now("YYYY-DD-MM", tp.file.title) %>
 
 
 # YAML FRONTMATTER

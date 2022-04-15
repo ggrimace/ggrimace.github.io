@@ -1,5 +1,5 @@
 ---
-title : Welcome to the garden
+title : Welcome to the faggots
 notetype : feed
 date : 15-04-2021
 ---
