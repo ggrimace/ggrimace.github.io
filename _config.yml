@@ -152,5 +152,7 @@ defaults:
 #   - vendor/ruby/
 #   
 
-Exclude:
-- /notes/Public/templates
+exclude:
+- _notes/Public/templates/
+
+
