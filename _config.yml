@@ -129,7 +129,7 @@ defaults:
       layout: Post
       content-type: notes
 
-date: "`r format Sys.Date(), %d-%m-%y)`"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
