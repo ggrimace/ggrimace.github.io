@@ -22,3 +22,5 @@ Retrive Frontmatter
 <% tp.frontmatter.title %>
 <% tp.frontmatter.notetype %>
 <% tp.frontmatter.date %>
+
+# Jekyll bullshit time
