@@ -1,7 +1,7 @@
 ---
 title : TEMPLATE FILE 1
 notetype : feed
-date : 04-14-2022
+date : 2022-04-14
 ---
 
 # Template Configuration
