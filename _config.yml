@@ -150,4 +150,4 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-#   - _notes
+#   - /notes/Public/templates
